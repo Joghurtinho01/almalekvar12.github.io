@@ -4,7 +4,7 @@ Menü: Bemutatkozás/Home
 Elérhetöségünk: Horváth Arnold (REPO tulajdonosa) Tel.: +06305897132
                 Tóth Alex (GOAT)
                 
-Termékünk: E csodás üzletben autók tuningolásával és eladásával foglalkozunk
+Termékünk: E csodás üzletben autók tuningolásával és eladásával foglalkozunk!
 
 Termékek: Toyota:
 

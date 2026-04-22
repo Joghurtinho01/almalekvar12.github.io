@@ -60,12 +60,13 @@ body{
 }
 
 .text strong {
-  color: #FF8C00; /* Narancssárga kiemelés */
+  color: #FF8C00; 
   font-size: 1.1rem;
-  text-transform: uppercase; /* Opcionális: nagybetűs stílus a hangsúlyhoz */
+  text-transform: uppercase; 
 }
 
 .text span {
-  color: #666; /* Szürke másodlagos adatok */
+  color: #666; 
   font-size: 0.9rem;
 }
+
