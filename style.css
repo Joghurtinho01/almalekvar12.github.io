@@ -1,0 +1,44 @@
+#ni {
+    color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    background-color: black;
+}
+p{
+    font-size: 30px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.fasz{
+    border-radius: 10px;
+    border-color: black;
+    border: 5px solid black;
+    float: right;
+
+}
+
+li{
+    font-weight: bolder;
+    color: black;
+    margin-left: 830px;
+}
+
+body{
+    background-color:bisque ;
+}
+
+.fasz2{ 
+    font-size: 50px;
+}
+
+.fasz3{ 
+    font-size: 50px;
+}
+
+.fasz4{
+    border-radius: 10px;
+    border-color: black;
+    border: 5px solid black;
+    margin-top: 500px;
+}
