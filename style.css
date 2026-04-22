@@ -15,6 +15,8 @@ p{
     border-color: black;
     border: 5px solid black;
     float: right;
+    width: 350px;
+    height: 200px;
 
 }
 
@@ -40,5 +42,30 @@ body{
     border-radius: 10px;
     border-color: black;
     border: 5px solid black;
-    margin-top: 500px;
+}
+
+.fasz5{
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Két oszlopos elrendezés */
+  gap: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 450px;
+  padding: 20px;
+}
+
+.spec-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text strong {
+  color: #FF8C00; /* Narancssárga kiemelés */
+  font-size: 1.1rem;
+  text-transform: uppercase; /* Opcionális: nagybetűs stílus a hangsúlyhoz */
+}
+
+.text span {
+  color: #666; /* Szürke másodlagos adatok */
+  font-size: 0.9rem;
 }
