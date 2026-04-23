@@ -15,8 +15,8 @@ p{
     border-color: black;
     border: 5px solid black;
     float: right;
-    width: 350px;
-    height: 200px;
+    width: 768px;
+    height: 366px;
 
 }
 
@@ -27,7 +27,8 @@ li{
 }
 
 body{
-    background-color:bisque ;
+    background-color: bisque ;
+    margin: 80px;
 }
 
 .fasz2{ 
@@ -68,5 +69,16 @@ body{
 .text span {
   color: #666; 
   font-size: 0.9rem;
+}
+
+button{
+    background-color: burlywood;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
 }
 
