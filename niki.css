@@ -1,4 +1,35 @@
 body{background-color: bisque;
-     text-align: left;
-     margin: 80px;}
+     text-align: justify;
+     margin: 80px;
+background-image: url(bmw.png);
+background-size: cover;}
+
+.b{background-color: bisque;
+   border-radius: 30px;
+   padding: 50px;}
+   
+.d{background-color: dimgrey;
+   border-radius: 30px;
+   padding: 50px;}
+
+.s{background-color: dimgrey;
+ border-radius: 30px;
+   padding: 50px}
+
+
+.c{background-color: dimgrey;
+ border-radius: 30px;
+   padding: 50px}
+
+.x{background-color: dimgrey;
+ border-radius: 30px;
+   padding: 50px}
+
+.v{background-color: dimgrey;
+ border-radius: 30px;
+   padding: 50px}
+
+.a{background-color: dimgrey;
+ border-radius: 30px;
+   padding: 50px}
 
